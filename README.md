@@ -1,0 +1,2 @@
+# PracticeGo
+go test
